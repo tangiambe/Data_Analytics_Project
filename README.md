@@ -1,7 +1,9 @@
 # Data Analytics Project
-This project is coded in a Jupyter Notebook in which each kernal can be ran individually after all kernals are ran in sequential order. This can be done by pressing the "Run All" command at the top of the file. After each kernal is intially ran the results of each kernal can be viewed.
+This Data Analytics Project exhibits a multitude of analysis as it relates to video game sales ranging from 1985-2016. Throughout this project you will learn about the measures of central tendencies, variances, popularity, and correlations related to video game sales in the specified time period!
 
-Run the kernals individually by hovering over each kernal then clicking the play button in the top left corner. Once a green check displays in the bottom left corner, the kernal has completed running.
+This project is coded in a Jupyter Notebook in which each kernal can be ran individually after all kernals are ran in sequential order. This can be done by pressing the "Run All" command at the top of the file. After each kernal is intially ran the results of each kernal can be viewed. 
+
+Kernals can be ran individually by hovering over each kernal then clicking the play button in the top left corner. Once a green check displays in the bottom left corner, the kernal has completed running.
 
 ## Tableau link
 The Tableau dashboard consists of additional graphs and results. Click the link below to explore!
