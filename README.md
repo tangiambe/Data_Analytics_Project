@@ -7,7 +7,7 @@ Run the kernals individually by hovering over each kernal then clicking the play
 The Tableau dashboard consists of additional graphs and results. Click the link below to explore!
 https://public.tableau.com/views/VGSales_16838339871100/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link
 
-### Below are a select few graphs/plots exhibiting what this project consists of: 
+### Below are a select few graphs/plots exhibiting what this project consists of:
 Explore more by opening the files or running the notebook!
 
 ![Screenshot (483)](https://github.com/blwishom/Data_Analytics_Project/assets/79879124/3b817c32-561f-4e48-8674-3f78937c582c)
