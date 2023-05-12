@@ -5,7 +5,7 @@ This project is coded in a Jupyter Notebook in which each kernal can be ran indi
 
 Kernals can be ran individually by hovering over each kernal then clicking the play button in the top left corner. Once a green check displays in the bottom left corner, the kernal has completed running.
 
-## Tableau link
+## Tableau Dashboard
 The Tableau dashboard consists of additional graphs and results. Click the link below to explore!
 https://public.tableau.com/views/VGSales_16838339871100/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link
 
