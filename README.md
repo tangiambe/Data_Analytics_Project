@@ -9,7 +9,7 @@ Use this link (https://github.com/mustafaradheyyan/PEP3-Revisit-Data_Analytics_P
 
 ## Tableau Dashboard
 The Tableau dashboard consists of additional graphs and results. Click the link below to explore!
-https://public.tableau.com/views/VGSales_16838339871100/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/RevisitingPep3-VideoGameSales/Sales?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ### Below are a select few graphs/plots exhibiting what this project consists of:
 Explore more by opening the files or running the notebook!
